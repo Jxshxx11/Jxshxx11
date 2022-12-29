@@ -12,5 +12,5 @@ Professional idiot and music producer with a touch of coding in between
 
 ## Currently doing
 
-> [ComeSurvive](https://discord.gg/comesurvive)
+> [ComeSurvive](https://discord.gg/comesurvive)    
 > [Zytric Engine](https://engine.zytric.studios)
