@@ -14,4 +14,4 @@ Professional idiot and music producer with a touch of coding in between
 
 > [PG Network](https://dsc.gg/earthlifesteal)    
 > [Zytric Engine](https://engine.zytric.studios)
-> [SmartBot](https://smartbot.zytric.studio)
+[SmartBot](https://smartbot.zytric.studio)
